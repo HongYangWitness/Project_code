@@ -4,7 +4,7 @@ This is a simple demo of todolist app implemented by **flask framework**. The tu
 
 The result is look like as follows:
 
-![D329BB4D024413019B6810008715B1F8](/Users/witness/Desktop/D329BB4D024413019B6810008715B1F8.jpg)
+![Image text](https://github.com/HongYangWitness/Picture/blob/master/flask.jpg)
 
 **Function:**
 
